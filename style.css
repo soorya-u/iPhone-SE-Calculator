@@ -16,12 +16,9 @@ span{
     display: flex;
     align-items: end;
     justify-content: end;
-    /* font-size: 60px; */
-    font-size: 3.8rem;
-    /* padding-right: 30px; */
-    padding-right: 1.9rem;
-    /* padding-bottom: 13px; */
-    padding-bottom: 0.83rem;
+    font-size: 3.8rem; /* 60px */
+    padding-right: 1.9rem; /* 30px */
+    padding-bottom: 0.83rem; /* 13px */
 }
 
 .allbtn{
@@ -38,12 +35,10 @@ span{
 .btn{
     display: flex;
     border: none;
-    /* border-radius: 50px; */
-    border-radius: 3.2rem;
+    border-radius: 3.2rem; /* 50px */
     height: 5rem;
     width: 5rem;
-    /* font-size: 30px; */
-    font-size: 1.9rem;
+    font-size: 1.9rem; /* 30px */
     justify-content: space-around;
     align-content: space-around;
     align-items: center;
@@ -52,15 +47,13 @@ span{
 .og{
     background-color: orange;
     color: white;
-    /* font-size: 40px; */
-    font-size: 2.53rem;
+    font-size: 2.53rem; /* 40px */
 }
 
 #equal:active{
     background-color: rgb(255, 201, 139);
     color: white;
-    /* font-size: 40px; */
-    font-size: 2.53rem;
+    font-size: 2.53rem; /* 40px */
 }
 
 .lg{
@@ -74,8 +67,7 @@ span{
 
 
 .dg{
-    /* font-size: 40px; */
-    font-size: 2.53rem;
+    font-size: 2.53rem; /*: 40px; */
     background-color: rgb(78, 78, 78);
     color: white;
 }
@@ -90,8 +82,7 @@ span{
     grid-column: 1/3;
     width: 10rem;
     justify-content: start;
-    /* padding-left: 25px; */
-    padding-left: 1.6rem;
+    padding-left: 1.6rem; /* 25px */
 }
 
 .outputfield{
